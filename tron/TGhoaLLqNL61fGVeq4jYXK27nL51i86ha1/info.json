@@ -1,0 +1,11 @@
+{
+ "name": "ACTX",
+ "website": "http://www.actoken.org",
+ "description": "ACToken X 是基于OA生态发行的农业生态应用代币，总量发行20亿，以质押置换和流动性挖矿方式产生代币，每笔转账自动销毁2%，直到10亿枚为止。",
+ "explorer": "https://tronscan.io/#/contract/TGhoaLLqNL61fGVeq4jYXK27nL51i86ha1",
+ "type": "TRC20",
+ "symbol": "ACTX",
+ "decimals": 6,
+ "status": "active",
+ "id": "TGhoaLLqNL61fGVeq4jYXK27nL51i86ha1"
+}
